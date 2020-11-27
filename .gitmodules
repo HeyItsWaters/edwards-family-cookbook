@@ -1,6 +1,3 @@
-[submodule "themes/sabrina"]
-	path = themes/sabrina
-	url = https://github.com/joshjcarrier/hugo-sabrina.git
 [submodule "themes/gochowdown"]
 	path = themes/gochowdown
 	url = https://github.com/seanlane/gochowdown.git
