@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edwards Family Cookbook</title>
+    <link>https://heyitswaters.com/cookbook/</link>
+    <description>Recent content on Edwards Family Cookbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://heyitswaters.com/cookbook/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My recipe</title>
+      <link>https://heyitswaters.com/cookbook/recipe-test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://heyitswaters.com/cookbook/recipe-test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

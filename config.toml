@@ -1,0 +1,4 @@
+baseURL = "https://heyitswaters.com/cookbook"
+languageCode = "en-us"
+title = "Edwards Family Cookbook"
+theme = "sabrina"
