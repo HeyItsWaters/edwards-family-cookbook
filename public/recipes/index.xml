@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Edwards Family Cookbook</title>
-    <link>https://edwardsfamilycookbook.com/</link>
-    <description>Recent content on Edwards Family Cookbook</description>
+    <title>Recipes on Edwards Family Cookbook</title>
+    <link>https://edwardsfamilycookbook.com/recipes/</link>
+    <description>Recent content in Recipes on Edwards Family Cookbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 27 Nov 2020 20:29:41 +0000</lastBuildDate>
     
-	<atom:link href="https://edwardsfamilycookbook.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://edwardsfamilycookbook.com/recipes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

@@ -2,47 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Edwards Family Cookbook</title>
-    <link>https://heyitswaters.com/cookbook/tags/</link>
+    <link>https://edwardsfamilycookbook.com/tags/</link>
     <description>Recent content in Tags on Edwards Family Cookbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 27 Nov 2020 20:29:41 +0000</lastBuildDate>
     
-	<atom:link href="https://heyitswaters.com/cookbook/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://edwardsfamilycookbook.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Pickled</title>
-      <link>https://heyitswaters.com/cookbook/tags/pickled/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>beverage</title>
+      <link>https://edwardsfamilycookbook.com/tags/beverage/</link>
+      <pubDate>Fri, 27 Nov 2020 20:29:41 +0000</pubDate>
       
-      <guid>https://heyitswaters.com/cookbook/tags/pickled/</guid>
+      <guid>https://edwardsfamilycookbook.com/tags/beverage/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sour</title>
-      <link>https://heyitswaters.com/cookbook/tags/sour/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>cappuccino</title>
+      <link>https://edwardsfamilycookbook.com/tags/cappuccino/</link>
+      <pubDate>Fri, 27 Nov 2020 20:29:41 +0000</pubDate>
       
-      <guid>https://heyitswaters.com/cookbook/tags/sour/</guid>
+      <guid>https://edwardsfamilycookbook.com/tags/cappuccino/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Spicy</title>
-      <link>https://heyitswaters.com/cookbook/tags/spicy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>coffee</title>
+      <link>https://edwardsfamilycookbook.com/tags/coffee/</link>
+      <pubDate>Fri, 27 Nov 2020 20:29:41 +0000</pubDate>
       
-      <guid>https://heyitswaters.com/cookbook/tags/spicy/</guid>
+      <guid>https://edwardsfamilycookbook.com/tags/coffee/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sweet</title>
-      <link>https://heyitswaters.com/cookbook/tags/sweet/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>punch</title>
+      <link>https://edwardsfamilycookbook.com/tags/punch/</link>
+      <pubDate>Fri, 27 Nov 2020 20:29:41 +0000</pubDate>
       
-      <guid>https://heyitswaters.com/cookbook/tags/sweet/</guid>
+      <guid>https://edwardsfamilycookbook.com/tags/punch/</guid>
       <description></description>
     </item>
     
