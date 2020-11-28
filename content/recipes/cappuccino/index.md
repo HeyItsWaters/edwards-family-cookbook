@@ -10,6 +10,7 @@ tags:
   - coffee
   - cappuccino
   - beverage
+  - vicki
 yield: 4
 prepTime: #
 cookTime: #
