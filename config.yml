@@ -2,6 +2,8 @@ baseURL: "https://edwardsfamilycookbook.com"
 languageCode: "en-us"
 title: "Edwards Family Cookbook"
 theme: "gochowdown"
+js: "https://unpkg.com/lunr/lunr.js"
+js2: "assets/js/lunr-search.js"
 
 params:
   author: The Edwards
@@ -9,7 +11,7 @@ params:
   keywords: 'recipes'
   # favicon_32: /images/favicon-32x32.png
   # favicon_16: /images/favicon-16x16.png
-  footercontent: 'Created by House Waters'
+  footercontent: 'Created by House Waters (2020)'
   hidecredits: true
   hidecopyright: true
   showNavTitle: true
@@ -34,3 +36,13 @@ taxonomies:
   category: category
   # cusine: cuisine
   tag: tags
+
+outputFormats:
+  SearchIndex:
+    baseName: search
+    mediaType: application/json
+outputs:
+  home:
+  - HTML
+  - RSS
+  - SearchIndex

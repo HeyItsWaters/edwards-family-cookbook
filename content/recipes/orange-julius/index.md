@@ -23,5 +23,5 @@ ingredients:
 
 directions:
 - (Optional) Other fruits may be used in place of the frozen orange juice concentrate.
-- Place all ingredients in blender and blend until ice cubes are crushed.
+- Place all ingredients in a blender and blend until ice cubes are crushed.
 ---
