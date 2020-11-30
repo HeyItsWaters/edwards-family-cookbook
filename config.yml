@@ -1,9 +1,8 @@
-baseURL: "https://edwardsfamilycookbook.com"
+# baseURL: "https://edwardsfamilycookbook.com"
+baseURL: "http://192.168.101.116"
 languageCode: "en-us"
 title: "Edwards Family Cookbook"
 theme: "gochowdown"
-js: "https://unpkg.com/lunr/lunr.js"
-js2: "assets/js/lunr-search.js"
 
 params:
   author: The Edwards
@@ -16,7 +15,8 @@ params:
   hidecopyright: true
   showNavTitle: true
   custom_css: 
-    - style.css
+    - assets/search.css
+    - assets/search-modal.scss
 
 menu:
   main:
