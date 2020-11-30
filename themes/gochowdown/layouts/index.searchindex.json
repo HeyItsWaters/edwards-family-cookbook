@@ -1,0 +1,10 @@
+[
+    {{- range $index, $page := .Site.RegularPages -}}
+      {{- if gt $index 0 -}} , {{- end -}}
+      {{- $entry := dict "href" $page.RelPermalink "title" $page.Title -}}
+      {{- $entry = merge $entry (dict "authors" $page.Params.authorName) -}}
+      {{- $entry = merge $entry (dict "tags" $page.Params.tags) -}}
+      {{- $entry = merge $entry (dict "categories" $page.Params.category) -}}
+      {{- $entry | jsonify -}}
+    {{- end -}}
+  ]
