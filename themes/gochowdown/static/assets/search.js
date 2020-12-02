@@ -68,7 +68,7 @@ function handleSearchQuery(event) {
   document.getElementById('popUpBox').style.display = "none"
   document.getElementById("search-results").innerHTML = ''
 
-  const results = searchSite(query)
+  const results = searchSite('*' + query + '*')
   if (!results.length) {
     displayErrorMessage("Your search returned no results")
     return
@@ -77,7 +77,6 @@ function handleSearchQuery(event) {
     popUpBox.style.display = "block";
     document.getElementById('closeModal').innerHTML = '<button onclick="closeModal()">Close</button>';
 
-    searchResultContent = document.createElement('div');
     for (var i = 0; i < results.length; i++) {
       var obj = results[i];
       var link = document.createElement('a')
