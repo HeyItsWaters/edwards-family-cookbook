@@ -1,7 +1,7 @@
-<nav class="navigation pure-g">
+<nav id="navigation" class="navigation pure-g">
   {{ if .Site.Params.showNavTitle }}
   <section class="pure-u-1 pure-u-md-1-2 nav-left">
-    <a href='./'><h1 class="nav-title title-shadow white">{{ .Site.Title }}</h1></a>
+    <a href='/'><h1 class="nav-title title-shadow white">{{ .Site.Title }}</h1></a>
   </section>
   <section class="pure-u-1 pure-u-md-1-2 nav-right">
     {{ with .Site.Menus.main}}
@@ -38,8 +38,7 @@
     </div>
   </div>
 </nav>
-<div id="popUpOverlay"></div>
-<div id="popUpBox">
+<div id="popUpBox" class="popUpBox">
     <div id="box">
       <i class="fas fa-check-circle fa-5x"></i>        
       <h1>Search Results</h1>

@@ -47,6 +47,15 @@ document.addEventListener("DOMContentLoaded", function () {
 
 function closeModal() {
   document.getElementById('popUpBox').style.display = "none"
+
+  document.getElementById("navigation").removeAttribute("style", "pointer-events:none")
+  document.getElementById("navigation").removeAttribute("style", "-webkit-filter: blur(4px)")
+
+  document.getElementsByClassName("content")[0].removeAttribute("style", "pointer-events:none")
+  document.getElementsByClassName("content")[0].removeAttribute("style", "-webkit-filter: blur(4px)")
+
+  document.getElementById("footer").removeAttribute("style", "pointer-events:none")
+  document.getElementById("footer").removeAttribute("style", "-webkit-filter: blur(4px)")
 }
 
 function handleSearchQuery(event) {
@@ -88,6 +97,10 @@ function handleSearchQuery(event) {
 
     // document.getElementById("search-results-container").classList.remove("hide-element");
     document.getElementById('popUpBox').style.display = "block"
+    document.getElementById("navigation").setAttribute("style", "-webkit-filter: blur(4px); pointer-events:none")
+    document.getElementsByClassName("content")[0].setAttribute("style", "pointer-events:none")
+    document.getElementsByClassName("content")[0].setAttribute("style", "-webkit-filter: blur(4px); pointer-events:none")
+    document.getElementById("footer").setAttribute("style", "-webkit-filter: blur(4px); pointer-events:none")
 
     console.log(results)
   }

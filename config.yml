@@ -16,7 +16,6 @@ params:
   showNavTitle: true
   custom_css: 
     - assets/search.css
-    - assets/search-modal.scss
 
 menu:
   main:
