@@ -47,6 +47,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 function closeModal() {
   document.getElementById('popUpBox').style.display = "none"
+  document.getElementById('search').value=''
 
   document.getElementById("navigation").removeAttribute("style", "pointer-events:none")
   document.getElementById("navigation").removeAttribute("style", "-webkit-filter: blur(4px)")
