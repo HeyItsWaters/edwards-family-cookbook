@@ -65,9 +65,7 @@ function handleSearchQuery(event) {
     displayErrorMessage("Please enter a search term");
     return;
   }
-  // document.getElementById("search-results-container").classList.add("hide-element");
   document.getElementById('popUpBox').style.display = "none"
-  // document.getElementById('search-results').innerHTML = "";
   document.getElementById("search-results").innerHTML = ''
 
   const results = searchSite(query)
@@ -88,21 +86,18 @@ function handleSearchQuery(event) {
       link.title = obj.title
       link.href = window.location.protocol + '//' + window.location.host + obj.href
       document.getElementById("search-results").append(link)
-      // document.getElementById("search-results").append(window.location.protocol + '//' + window.location.host + obj.href)
 
       var br = document.createElement("br");
       document.getElementById("search-results").appendChild(br)
-      // document.getElementById("search-results").append(obj.href)
     }
 
-    // document.getElementById("search-results-container").classList.remove("hide-element");
     document.getElementById('popUpBox').style.display = "block"
     document.getElementById("navigation").setAttribute("style", "-webkit-filter: blur(4px); pointer-events:none")
     document.getElementsByClassName("content")[0].setAttribute("style", "pointer-events:none")
     document.getElementsByClassName("content")[0].setAttribute("style", "-webkit-filter: blur(4px); pointer-events:none")
     document.getElementById("footer").setAttribute("style", "-webkit-filter: blur(4px); pointer-events:none")
 
-    console.log(results)
+    // console.log(results)
   }
 }
 
