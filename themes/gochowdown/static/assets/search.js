@@ -12,6 +12,7 @@ async function initSearchIndex() {
       this.ref("href");
       pagesIndex.forEach((page) => this.add(page));
     });
+    searchIndex.pipeline.remove(searchIndex.stemmer)
   } catch (e) {
     console.log(e);
   }
