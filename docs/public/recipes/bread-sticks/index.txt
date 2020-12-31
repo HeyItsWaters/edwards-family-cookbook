@@ -1,0 +1,59 @@
+\-\--
+
+layout: recipe
+
+date: 2020-11-27T20:29:41Z
+
+draft: true
+
+title: \"Bread Sticks"
+
+\# image: breadstick.jpg
+
+authorName: Ariel
+
+category: breads & muffins
+
+tags:
+
+\- ariel
+
+\- bread sticks
+
+\- dough
+
+\- bread machine
+
+yield: \#
+
+prepTime: \#
+
+cookTime: \#
+
+ingredients:
+
+\- 1 c warm water
+
+\- 1/4 c oil
+
+\- 3 c flour
+
+\- 1 tsp salt
+
+\- 3 tbsp brown sugar
+
+\- 2.5 tsp yeast
+
+Directions:
+
+\- Put ingredients in bread maker in order listed. Turn on using the
+dough cycle.
+
+\- Once dough is complete, roll out on lightly floured surface. Roll out
+to 10x12 rectangle
+
+\- Cut into sticks
+
+\- Cover with towel and let rise 1 hour
+
+\- Bake at 375 for 10-15 minutes.

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>beverage on Edwards Family Cookbook</title>
+    <link>http://192.168.101.116/category/beverage/</link>
+    <description>Recent content in beverage on Edwards Family Cookbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Nov 2020 20:29:41 +0000</lastBuildDate><atom:link href="http://192.168.101.116/category/beverage/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cappuccino</title>
+      <link>http://192.168.101.116/recipes/cappuccino/</link>
+      <pubDate>Fri, 27 Nov 2020 20:29:41 +0000</pubDate>
+      
+      <guid>http://192.168.101.116/recipes/cappuccino/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Easy Church Punch</title>
+      <link>http://192.168.101.116/recipes/easy-church-punch/</link>
+      <pubDate>Fri, 27 Nov 2020 20:29:41 +0000</pubDate>
+      
+      <guid>http://192.168.101.116/recipes/easy-church-punch/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Orange Julius</title>
+      <link>http://192.168.101.116/recipes/orange-julius/</link>
+      <pubDate>Fri, 27 Nov 2020 20:29:41 +0000</pubDate>
+      
+      <guid>http://192.168.101.116/recipes/orange-julius/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Orange Papaya Smoothie</title>
+      <link>http://192.168.101.116/recipes/orange-papaya-smoothie/</link>
+      <pubDate>Fri, 27 Nov 2020 20:29:41 +0000</pubDate>
+      
+      <guid>http://192.168.101.116/recipes/orange-papaya-smoothie/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Punch</title>
+      <link>http://192.168.101.116/recipes/punch/</link>
+      <pubDate>Fri, 27 Nov 2020 20:29:41 +0000</pubDate>
+      
+      <guid>http://192.168.101.116/recipes/punch/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Spiced Tea</title>
+      <link>http://192.168.101.116/recipes/spiced-tea/</link>
+      <pubDate>Fri, 27 Nov 2020 20:29:41 +0000</pubDate>
+      
+      <guid>http://192.168.101.116/recipes/spiced-tea/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>

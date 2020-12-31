@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>carrots on Edwards Family Cookbook</title>
+    <link>http://192.168.101.116/tags/carrots/</link>
+    <description>Recent content in carrots on Edwards Family Cookbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Nov 2020 20:29:41 +0000</lastBuildDate><atom:link href="http://192.168.101.116/tags/carrots/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Glazed Carrots</title>
+      <link>http://192.168.101.116/recipes/glazed-carrots/</link>
+      <pubDate>Fri, 27 Nov 2020 20:29:41 +0000</pubDate>
+      
+      <guid>http://192.168.101.116/recipes/glazed-carrots/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

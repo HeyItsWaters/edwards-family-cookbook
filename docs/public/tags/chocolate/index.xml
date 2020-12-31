@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>chocolate on Edwards Family Cookbook</title>
+    <link>http://192.168.101.116/tags/chocolate/</link>
+    <description>Recent content in chocolate on Edwards Family Cookbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Nov 2020 20:29:41 +0000</lastBuildDate><atom:link href="http://192.168.101.116/tags/chocolate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cherry Chocolate Cake</title>
+      <link>http://192.168.101.116/recipes/cherry-chocolate-cake/</link>
+      <pubDate>Fri, 27 Nov 2020 20:29:41 +0000</pubDate>
+      
+      <guid>http://192.168.101.116/recipes/cherry-chocolate-cake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chocolate Cherry Logs</title>
+      <link>http://192.168.101.116/recipes/chocolate-cherry-logs/</link>
+      <pubDate>Fri, 27 Nov 2020 20:29:41 +0000</pubDate>
+      
+      <guid>http://192.168.101.116/recipes/chocolate-cherry-logs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coconut Chocolate Drops</title>
+      <link>http://192.168.101.116/recipes/coconut-chocolate-drops/</link>
+      <pubDate>Fri, 27 Nov 2020 20:29:41 +0000</pubDate>
+      
+      <guid>http://192.168.101.116/recipes/coconut-chocolate-drops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crinkle Cookies</title>
+      <link>http://192.168.101.116/recipes/crinkle-cookies/</link>
+      <pubDate>Fri, 27 Nov 2020 20:29:41 +0000</pubDate>
+      
+      <guid>http://192.168.101.116/recipes/crinkle-cookies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mayonnaise Chocolate Cake</title>
+      <link>http://192.168.101.116/recipes/chocolate-mayonnaise-cake/</link>
+      <pubDate>Fri, 27 Nov 2020 20:29:41 +0000</pubDate>
+      
+      <guid>http://192.168.101.116/recipes/chocolate-mayonnaise-cake/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>meatloaf on Edwards Family Cookbook</title>
+    <link>http://192.168.101.116/tags/meatloaf/</link>
+    <description>Recent content in meatloaf on Edwards Family Cookbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Nov 2020 20:29:41 +0000</lastBuildDate><atom:link href="http://192.168.101.116/tags/meatloaf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meatloaf</title>
+      <link>http://192.168.101.116/recipes/meatloaf/</link>
+      <pubDate>Fri, 27 Nov 2020 20:29:41 +0000</pubDate>
+      
+      <guid>http://192.168.101.116/recipes/meatloaf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meatloaf</title>
+      <link>http://192.168.101.116/recipes/tangy-meatloaf/</link>
+      <pubDate>Fri, 27 Nov 2020 20:29:41 +0000</pubDate>
+      
+      <guid>http://192.168.101.116/recipes/tangy-meatloaf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sour Cream Meat Pies</title>
+      <link>http://192.168.101.116/recipes/sour-cream-meat-pies/</link>
+      <pubDate>Fri, 27 Nov 2020 20:29:41 +0000</pubDate>
+      
+      <guid>http://192.168.101.116/recipes/sour-cream-meat-pies/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

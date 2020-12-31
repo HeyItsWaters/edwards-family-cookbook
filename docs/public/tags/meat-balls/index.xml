@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>meat balls on Edwards Family Cookbook</title>
+    <link>http://192.168.101.116/tags/meat-balls/</link>
+    <description>Recent content in meat balls on Edwards Family Cookbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Nov 2020 20:29:41 +0000</lastBuildDate><atom:link href="http://192.168.101.116/tags/meat-balls/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Waikiki Meatballs</title>
+      <link>http://192.168.101.116/recipes/waikiki-meatballs/</link>
+      <pubDate>Fri, 27 Nov 2020 20:29:41 +0000</pubDate>
+      
+      <guid>http://192.168.101.116/recipes/waikiki-meatballs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
