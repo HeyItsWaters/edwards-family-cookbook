@@ -1,5 +1,4 @@
-# baseURL: "https://edwardsfamilycookbook.com"
-baseURL: "http://192.168.101.116"
+baseURL: "https://edwardsfamilycookbook.com"
 languageCode: "en-us"
 title: "Edwards Family Cookbook"
 theme: "gochowdown"
