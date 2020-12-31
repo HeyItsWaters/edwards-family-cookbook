@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>fruit on Edwards Family Cookbook</title>
-    <link>http://192.168.101.116/tags/fruit/</link>
+    <link>https://edwardsfamilycookbook.com/tags/fruit/</link>
     <description>Recent content in fruit on Edwards Family Cookbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Nov 2020 20:29:41 +0000</lastBuildDate><atom:link href="http://192.168.101.116/tags/fruit/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Nov 2020 20:29:41 +0000</lastBuildDate><atom:link href="https://edwardsfamilycookbook.com/tags/fruit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Five Cup Salad</title>
-      <link>http://192.168.101.116/recipes/five-cup-salad/</link>
+      <link>https://edwardsfamilycookbook.com/recipes/five-cup-salad/</link>
       <pubDate>Fri, 27 Nov 2020 20:29:41 +0000</pubDate>
       
-      <guid>http://192.168.101.116/recipes/five-cup-salad/</guid>
+      <guid>https://edwardsfamilycookbook.com/recipes/five-cup-salad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fruit Rollups</title>
-      <link>http://192.168.101.116/recipes/fruit-rollups/</link>
+      <link>https://edwardsfamilycookbook.com/recipes/fruit-rollups/</link>
       <pubDate>Fri, 27 Nov 2020 20:29:41 +0000</pubDate>
       
-      <guid>http://192.168.101.116/recipes/fruit-rollups/</guid>
+      <guid>https://edwardsfamilycookbook.com/recipes/fruit-rollups/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Icebox Fruit Cake</title>
-      <link>http://192.168.101.116/recipes/icebox-fruit-cake/</link>
+      <link>https://edwardsfamilycookbook.com/recipes/icebox-fruit-cake/</link>
       <pubDate>Fri, 27 Nov 2020 20:29:41 +0000</pubDate>
       
-      <guid>http://192.168.101.116/recipes/icebox-fruit-cake/</guid>
+      <guid>https://edwardsfamilycookbook.com/recipes/icebox-fruit-cake/</guid>
       <description></description>
     </item>
     

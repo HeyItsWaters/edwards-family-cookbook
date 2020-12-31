@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>zucchini on Edwards Family Cookbook</title>
-    <link>http://192.168.101.116/tags/zucchini/</link>
+    <link>https://edwardsfamilycookbook.com/tags/zucchini/</link>
     <description>Recent content in zucchini on Edwards Family Cookbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Nov 2020 20:29:41 +0000</lastBuildDate><atom:link href="http://192.168.101.116/tags/zucchini/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Nov 2020 20:29:41 +0000</lastBuildDate><atom:link href="https://edwardsfamilycookbook.com/tags/zucchini/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Zucchini Bread</title>
-      <link>http://192.168.101.116/recipes/zucchini-bread/</link>
+      <link>https://edwardsfamilycookbook.com/recipes/zucchini-bread/</link>
       <pubDate>Fri, 27 Nov 2020 20:29:41 +0000</pubDate>
       
-      <guid>http://192.168.101.116/recipes/zucchini-bread/</guid>
+      <guid>https://edwardsfamilycookbook.com/recipes/zucchini-bread/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zucchini Cake</title>
-      <link>http://192.168.101.116/recipes/zucchini-cake/</link>
+      <link>https://edwardsfamilycookbook.com/recipes/zucchini-cake/</link>
       <pubDate>Fri, 27 Nov 2020 20:29:41 +0000</pubDate>
       
-      <guid>http://192.168.101.116/recipes/zucchini-cake/</guid>
+      <guid>https://edwardsfamilycookbook.com/recipes/zucchini-cake/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zucchini Squash Casserole</title>
-      <link>http://192.168.101.116/recipes/zucchini-squash-casserole/</link>
+      <link>https://edwardsfamilycookbook.com/recipes/zucchini-squash-casserole/</link>
       <pubDate>Fri, 27 Nov 2020 20:29:41 +0000</pubDate>
       
-      <guid>http://192.168.101.116/recipes/zucchini-squash-casserole/</guid>
+      <guid>https://edwardsfamilycookbook.com/recipes/zucchini-squash-casserole/</guid>
       <description></description>
     </item>
     

@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cobbler on Edwards Family Cookbook</title>
-    <link>http://192.168.101.116/tags/cobbler/</link>
+    <link>https://edwardsfamilycookbook.com/tags/cobbler/</link>
     <description>Recent content in cobbler on Edwards Family Cookbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Nov 2020 20:29:41 +0000</lastBuildDate><atom:link href="http://192.168.101.116/tags/cobbler/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Nov 2020 20:29:41 +0000</lastBuildDate><atom:link href="https://edwardsfamilycookbook.com/tags/cobbler/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Banana Split Cake</title>
-      <link>http://192.168.101.116/recipes/banana-split-cake/</link>
+      <link>https://edwardsfamilycookbook.com/recipes/banana-split-cake/</link>
       <pubDate>Fri, 27 Nov 2020 20:29:41 +0000</pubDate>
       
-      <guid>http://192.168.101.116/recipes/banana-split-cake/</guid>
+      <guid>https://edwardsfamilycookbook.com/recipes/banana-split-cake/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Easy Cobbler</title>
-      <link>http://192.168.101.116/recipes/easy-cobbler/</link>
+      <link>https://edwardsfamilycookbook.com/recipes/easy-cobbler/</link>
       <pubDate>Fri, 27 Nov 2020 20:29:41 +0000</pubDate>
       
-      <guid>http://192.168.101.116/recipes/easy-cobbler/</guid>
+      <guid>https://edwardsfamilycookbook.com/recipes/easy-cobbler/</guid>
       <description></description>
     </item>
     
