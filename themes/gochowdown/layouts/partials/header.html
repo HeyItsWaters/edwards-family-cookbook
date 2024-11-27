@@ -1,24 +1,49 @@
-<nav class="navigation pure-g">
-	{{ if .Site.Params.showNavTitle }}
-	<section class="pure-u-1 pure-u-md-1-2 nav-left">
-    <a href="{{.Site.BaseURL}}">
-      <h1 class="nav-title title-shadow white">{{ .Site.Title }}</h1>
-    </a>
+<nav id="navigation" class="navigation pure-g">
+  {{ if .Site.Params.showNavTitle }}
+  <section class="pure-u-1 pure-u-md-1-2 nav-left">
+    <a href='/'><h1 class="nav-title title-shadow white">{{ .Site.Title }}</h1></a>
   </section>
   <section class="pure-u-1 pure-u-md-1-2 nav-right">
     {{ with .Site.Menus.main}}
-      {{ range . }}
-        <a href="{{ .URL | relLangURL }}">{{ .Name }}</a>
-      {{ end }}
+    {{ range . }}
+    <a href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+    {{ end }}
     {{ end }}
   </section>
   {{ else }}
   <section class="pure-u-1 nav-right">
     {{ with .Site.Menus.main}}
-      {{ range . }}
-        <a href="{{ .URL | relLangURL }}">{{ .Name }}</a>
-      {{ end }}
+    {{ range . }}
+    <a href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+    {{ end }}
     {{ end }}
   </section>
   {{ end }}
+  <script src="https://unpkg.com/lunr/lunr.js"></script>
+  <script defer language="javascript" type="text/javascript"  src="{{ "/assets/search.js" | urlize | relURL }}"></script>
+
+
+  <div id="site-search" class="pure-u-1 nav-right site-search">
+    <div class="search-flex">
+      <form id="search-form" name="searchForm" role="form" onsubmit="return false">
+        <div class="search-wrapper">
+          <div class="search-container">
+            <i class="fa fa-search"></i>
+            <input autocomplete="off" placeholder="Search..." id="search" class="search-input" aria-label="Search site" type="text" name="q">
+          </div>
+          <div class="search-error hide-element"><span class="search-error-message"></span></div>
+        </div>
+      </form>
+      <button id="clear-search-results-sidebar" class="button clear-search-results hide-element">Clear Search Results</button>
+    </div>
+  </div>
 </nav>
+<div id="popUpBox" class="popUpBox">
+    <div id="box">
+      <i class="fas fa-check-circle fa-5x"></i>        
+      <h1>Search Results</h1>
+      <div id='search-results'></div>
+      <br />
+      <div id="closeModal"></div>
+    </div>
+</div>
