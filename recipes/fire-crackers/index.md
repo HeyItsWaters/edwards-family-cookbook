@@ -3,7 +3,7 @@ layout: recipe
 date: 2024-11-27T20:29:41Z 
 draft: true 
 title: "Fire Crackers" 
-# image: beeftacobake.jpg 
+# image: firecrackers.jpg 
 authorName: Ariel
 category: main dish 
 tags: 

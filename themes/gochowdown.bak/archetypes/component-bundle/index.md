@@ -1,8 +1,8 @@
 ---
 layout: recipe
-date: 2024-11-27T15:20:06-06:00
+date: {{ .Date }}
 draft: true    
-title:  "Fire Crackers" # The title of your awesome recipe
+title:  "{{ replace .Name "-" " " | humanize | title }}" # The title of your awesome recipe
 image: awesome-recipe-image.jpg # Name of image in recipe bundle
 imagecredit: https://placekitten.com/600/800 # URL to image source page, website, or creator
 YouTubeID:  # The F2SYDXV1W1w part of https://www.youtube.com/watch?v=F2SYDXV1W1w

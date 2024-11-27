@@ -29,18 +29,18 @@
 
     <div class="clearfix mt3">
       {{ with .Params.yield }}
-      <div class="sm-col sm-col-2">
-          <h4 class="blue mt0 mb2 xs-center">Yields: {{ . }}</h4>
+      <div class="sm-col sm-col-3">
+          <h4 class="blue mt0 mb2 xs-center">{{ i18n "yields" . }}</h4>
       </div>
       {{ end }}
       {{ with .Params.prepTime }}
-      <div class="sm-col sm-col-2">
-        <h4 class="blue mt0 mb2 xs-center">Preparation time: {{ . }}</h4>
+      <div class="sm-col sm-col-3">
+        <h4 class="blue mt0 mb2 xs-center">{{ i18n "prepTime" . }}</h4>
       </div>
       {{ end }}
       {{ with .Params.cookTime }}
-      <div class="sm-col sm-col-2">
-        <h4 class="blue mt0 mb2 xs-center">Cooking time: {{ . }}</h4>
+      <div class="sm-col sm-col-3">
+        <h4 class="blue mt0 mb2 xs-center">{{ i18n "cookTime" . }}</h4>
       </div>
       {{ end }}
     </div>
@@ -50,7 +50,7 @@
       <div class="sm-col sm-col-6 lg-col-6 recipeItems">
         <!-- check if it's a component-based recipe -->
         {{ with .Params.Components}}
-        <h4 class="blue mt0 mb2 xs-center">Components</h4>
+        <h4 class="blue mt0 mb2 xs-center">{{ i18n "components" }}</h4>
         <ul>
           <!-- list components that make up recipe -->
           {{ range . }}
@@ -62,7 +62,7 @@
         {{ end }}
 
         {{ with .Params.Ingredients }}
-        <h4 class="blue mt0 mb2 xs-center">Ingredients</h4>
+        <h4 class="blue mt0 mb2 xs-center">{{ i18n "ingredients" }}</h4>
         <ul itemprop="ingredients">
           <!-- list ingredients that make up recipe -->
           {{ range . }}
@@ -75,7 +75,7 @@
       </div>
 
       <div class="sm-col sm-col-6 lg-col-6 recipeItems">
-        <h4 class="blue mt0 mb2 xs-center">Directions</h4>
+        <h4 class="blue mt0 mb2 xs-center">{{ i18n "directions" }}</h4>
         <ul itemprop="recipeInstructions">
           {{ range .Params.Directions }}
           <li>
@@ -89,7 +89,7 @@
     <!-- check if it's a component-based recipe, render it -->
     {{ with .Params.Components }}
     <div class="components bg-darken-2 p2 mt3 mb3 center">
-      &darr; This is a <strong class="blue">component-based recipe</strong> (fancy talk for making the dish in pieces, then assembling). &darr;
+      &darr; {{ i18n "this-is-a" }} <strong class="blue">{{ i18n "component-based-recipe" }}</strong> ({{ i18n "fancy-talk" }}). &darr;
     </div>
     
     <div class="clearfix mxn2">
@@ -112,7 +112,7 @@
           </a>
         {{ end }}
 
-        <h4 class="blue regular xs-center">Ingredients</h4>
+        <h4 class="blue regular xs-center">{{ i18n "ingredients" }}</h4>
         <ul class="ingredients" itemprop="ingredients">
           {{ range .Params.Ingredients }}
           <li itemprop="ingredient">
@@ -121,7 +121,7 @@
           {{ end }}
         </ul>
         
-        <h4 class="blue regular xs-center">Steps</h4>
+        <h4 class="blue regular xs-center">{{ i18n "steps" }}</h4>
         <ul itemprop="instructions">
           {{ range .Params.Directions }}
           <li>
